@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Repos\\ProjetoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A29388BD-CAA6-4088-9672-2C9DF93AB1CF}|WebApi\\WebApi.csproj|c:\\repos\\projetomvc\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A29388BD-CAA6-4088-9672-2C9DF93AB1CF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\ProjetoMVC\\WebApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +24,8 @@
               "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Repos\\ProjetoMVC\\WebApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-24T19:52:32.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T19:52:32.101Z"
             }
           ]
         }
