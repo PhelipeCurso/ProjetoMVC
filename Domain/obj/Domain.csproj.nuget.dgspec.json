@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Domain\\Domain.csproj": {}
+    "C:\\Repos\\ProjetoMVC\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Domain\\Domain.csproj": {
+    "C:\\Repos\\ProjetoMVC\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Repos\\ProjetoMVC\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Repos\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Repos\\ProjetoMVC\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\wellisson.reis\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Domain\\obj\\",
+        "outputPath": "C:\\Repos\\ProjetoMVC\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wellisson.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",
