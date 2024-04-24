@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\ProjetoMVC\\ProjetoMVC.csproj": {}
+    "C:\\Repos\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\ProjetoMVC\\ProjetoMVC.csproj": {
+    "C:\\Repos\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\ProjetoMVC\\ProjetoMVC.csproj",
-        "projectName": "ProjetoMVC",
-        "projectPath": "C:\\Repos\\ProjetoMVC\\ProjetoMVC.csproj",
+        "projectUniqueName": "C:\\Repos\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Repos\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\wellisson.reis\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\ProjetoMVC\\obj\\",
+        "outputPath": "C:\\Repos\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wellisson.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,18 +45,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -69,9 +57,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

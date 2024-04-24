@@ -4067,24 +4067,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\phelipe.santos\\.nuget\\packages\\": {},
-    "D:\\V.S\\SDKs\\NuGetPackages": {}
+    "C:\\Users\\wellisson.reis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dio\\ProjetoMVC\\ProjetoMVC.csproj",
+      "projectUniqueName": "C:\\Repos\\ProjetoMVC\\ProjetoMVC.csproj",
       "projectName": "ProjetoMVC",
-      "projectPath": "C:\\dio\\ProjetoMVC\\ProjetoMVC.csproj",
-      "packagesPath": "C:\\Users\\phelipe.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\dio\\ProjetoMVC\\obj\\",
+      "projectPath": "C:\\Repos\\ProjetoMVC\\ProjetoMVC.csproj",
+      "packagesPath": "C:\\Users\\wellisson.reis\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\ProjetoMVC\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\V.S\\SDKs\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\phelipe.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\wellisson.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4093,9 +4088,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "http://192.168.0.14:8084/nuget/nuget": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/ntZROmu8hdCjgv3sbjBdUqbsSj3SusVYtlenAZLBrhv5KaM1kg/api": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -4148,16 +4141,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.0.14:8084/nuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  }
 }

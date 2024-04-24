@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\ProjetoMVC\\ProjetoMVC.csproj": {}
+    "C:\\Repos\\ProjetoMVC\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\ProjetoMVC\\ProjetoMVC.csproj": {
+    "C:\\Repos\\ProjetoMVC\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\ProjetoMVC\\ProjetoMVC.csproj",
-        "projectName": "ProjetoMVC",
-        "projectPath": "C:\\Repos\\ProjetoMVC\\ProjetoMVC.csproj",
+        "projectUniqueName": "C:\\Repos\\ProjetoMVC\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Repos\\ProjetoMVC\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\wellisson.reis\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\ProjetoMVC\\obj\\",
+        "outputPath": "C:\\Repos\\ProjetoMVC\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wellisson.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,15 +46,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
