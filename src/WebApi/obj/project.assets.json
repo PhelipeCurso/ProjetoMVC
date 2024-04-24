@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\ProjetoMVC\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Repos\\ProjetoMVC\\src\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Repos\\ProjetoMVC\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Repos\\ProjetoMVC\\src\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\wellisson.reis\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\ProjetoMVC\\WebApi\\obj\\",
+      "outputPath": "C:\\Repos\\ProjetoMVC\\src\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wellisson.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",

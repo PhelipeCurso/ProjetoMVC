@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O/bI18oHtG5xzfbjzSvtl+Vb19UarLM1YvsKRTEEjaHTY/D6cvSkgexcicfFNuUgLiL5dFegTZ8khmV9MRH5Gw==",
+  "dgSpecHash": "2ntQypiZhydo0G2Wuwj5GInj3BWbD0OwLIqY9xzV9O7kMPjDZPE4yvHKJXMAPsuDcn4A0Kah/0bAC94CSVOekw==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\ProjetoMVC\\Aplicacao\\Aplicacao.csproj",
+  "projectFilePath": "C:\\Repos\\ProjetoMVC\\src\\Aplicacao\\Aplicacao.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

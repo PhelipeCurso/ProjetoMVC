@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\ProjetoMVC\\Dominio\\Dominio.csproj": {}
+    "C:\\Repos\\ProjetoMVC\\src\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\ProjetoMVC\\Dominio\\Dominio.csproj": {
+    "C:\\Repos\\ProjetoMVC\\src\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\ProjetoMVC\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Repos\\ProjetoMVC\\src\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Repos\\ProjetoMVC\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Repos\\ProjetoMVC\\src\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\wellisson.reis\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\ProjetoMVC\\Dominio\\obj\\",
+        "outputPath": "C:\\Repos\\ProjetoMVC\\src\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wellisson.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",

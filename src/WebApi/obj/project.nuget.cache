@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O9NIcW4/gPTqDGefmaeUPOYzT2t0+ExX+V08UirbPJoUvVYWVQ+wF8ZYw6bUV5wsefNUr5CRWprY8Y8uAlakKA==",
+  "dgSpecHash": "8VM1XqmJZAfELD2/C5HyMoDIYP+stNBl8P1d7pGbSx1Ub0Oiy1/Vom+yXQfGdiLLif+J3TOtotErsO0qS+7o4w==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\ProjetoMVC\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Repos\\ProjetoMVC\\src\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wellisson.reis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\wellisson.reis\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

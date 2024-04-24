@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\ProjetoMVC\\Infraestrutura\\Infraestrutura.csproj": {}
+    "C:\\Repos\\ProjetoMVC\\src\\Infraestrutura\\Infraestrutura.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\ProjetoMVC\\Infraestrutura\\Infraestrutura.csproj": {
+    "C:\\Repos\\ProjetoMVC\\src\\Infraestrutura\\Infraestrutura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\ProjetoMVC\\Infraestrutura\\Infraestrutura.csproj",
+        "projectUniqueName": "C:\\Repos\\ProjetoMVC\\src\\Infraestrutura\\Infraestrutura.csproj",
         "projectName": "Infraestrutura",
-        "projectPath": "C:\\Repos\\ProjetoMVC\\Infraestrutura\\Infraestrutura.csproj",
+        "projectPath": "C:\\Repos\\ProjetoMVC\\src\\Infraestrutura\\Infraestrutura.csproj",
         "packagesPath": "C:\\Users\\wellisson.reis\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\ProjetoMVC\\Infraestrutura\\obj\\",
+        "outputPath": "C:\\Repos\\ProjetoMVC\\src\\Infraestrutura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wellisson.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",

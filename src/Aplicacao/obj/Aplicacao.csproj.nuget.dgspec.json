@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\ProjetoMVC\\Aplicacao\\Aplicacao.csproj": {}
+    "C:\\Repos\\ProjetoMVC\\src\\Aplicacao\\Aplicacao.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\ProjetoMVC\\Aplicacao\\Aplicacao.csproj": {
+    "C:\\Repos\\ProjetoMVC\\src\\Aplicacao\\Aplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\ProjetoMVC\\Aplicacao\\Aplicacao.csproj",
+        "projectUniqueName": "C:\\Repos\\ProjetoMVC\\src\\Aplicacao\\Aplicacao.csproj",
         "projectName": "Aplicacao",
-        "projectPath": "C:\\Repos\\ProjetoMVC\\Aplicacao\\Aplicacao.csproj",
+        "projectPath": "C:\\Repos\\ProjetoMVC\\src\\Aplicacao\\Aplicacao.csproj",
         "packagesPath": "C:\\Users\\wellisson.reis\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\ProjetoMVC\\Aplicacao\\obj\\",
+        "outputPath": "C:\\Repos\\ProjetoMVC\\src\\Aplicacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wellisson.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",
