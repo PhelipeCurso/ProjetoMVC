@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6TFxFP/ddUJOGusSs0d0wxhe2mAT0E+PW4xSybcM/laj5fCdwcZ4geRkpuR4OQiH7miyolSyJ/BBprBGUmBXQg==",
+  "dgSpecHash": "rkfsuFPMx3EPUkZm+MfQUgykXq6lcCUv3XhFsnb30mVKVGw9BbEbxjFNoWQ0pa0mYC4lfhF9FUbyXSN5eZlXsA==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\ProjetoMVC\\src\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\repos\\ProjetoMVC\\src\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

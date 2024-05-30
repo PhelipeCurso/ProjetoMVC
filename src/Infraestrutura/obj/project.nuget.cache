@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jSxHsbMYz5en3KjXPXk77JUffErOY2liwk8rdAFckuWe3Ehph6UgniCYngx56UYcgNmrUnNu0Ii1Mkm7We+78w==",
+  "dgSpecHash": "04ZyDBQuqgqr2TluIf+Z26hnVfWKm6RAJE51cSGSBHUmVMkZM09W9qBwE9ypi1Gob8x7EhncOTwfJH7jY+Zdyw==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\ProjetoMVC\\src\\Infraestrutura\\Infraestrutura.csproj",
+  "projectFilePath": "C:\\repos\\ProjetoMVC\\src\\Infraestrutura\\Infraestrutura.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

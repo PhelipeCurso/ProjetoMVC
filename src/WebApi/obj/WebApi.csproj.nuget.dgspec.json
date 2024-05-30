@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\ProjetoMVC\\src\\WebApi\\WebApi.csproj": {}
+    "C:\\repos\\ProjetoMVC\\src\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\ProjetoMVC\\src\\WebApi\\WebApi.csproj": {
+    "C:\\repos\\ProjetoMVC\\src\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\ProjetoMVC\\src\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\repos\\ProjetoMVC\\src\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Repos\\ProjetoMVC\\src\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\wellisson.reis\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\ProjetoMVC\\src\\WebApi\\obj\\",
+        "projectPath": "C:\\repos\\ProjetoMVC\\src\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\welli\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\ProjetoMVC\\src\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\wellisson.reis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\welli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
